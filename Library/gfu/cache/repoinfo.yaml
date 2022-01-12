@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-01-12T10:47:35.079+09:00
-  initializedAtString: 2022-01-12T10:47:35.079+09:00
+  lastUpdatedAtString: 2022-01-12T12:07:35.816+09:00
+  initializedAtString: 2022-01-12T12:07:35.816+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/yuzu00117/FPSGame
@@ -24,10 +24,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
       name: origin
       url: https://github.com/yuzu00117/FPSGame

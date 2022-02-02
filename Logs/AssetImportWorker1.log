@@ -2619,3 +2619,116 @@ System memory in use after: 283.4 MB.
 Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2454.
 Total: 5.747001 ms (FindLiveObjects: 0.725824 ms CreateObjectMapping: 0.197134 ms MarkObjects: 3.826512 ms  DeleteObjects: 0.994441 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.038603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.883 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 284.0 MB.
+System memory in use after: 283.6 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2457.
+Total: 11.932003 ms (FindLiveObjects: 1.642737 ms CreateObjectMapping: 0.314130 ms MarkObjects: 7.549234 ms  DeleteObjects: 2.421863 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.099942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 284.2 MB.
+System memory in use after: 283.8 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2460.
+Total: 3.733827 ms (FindLiveObjects: 0.423676 ms CreateObjectMapping: 0.081107 ms MarkObjects: 2.417282 ms  DeleteObjects: 0.810633 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016779 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.035 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 284.4 MB.
+System memory in use after: 284.0 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2463.
+Total: 11.997385 ms (FindLiveObjects: 0.960426 ms CreateObjectMapping: 0.375093 ms MarkObjects: 8.329375 ms  DeleteObjects: 2.330162 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023618 seconds.
+Callback registration failed. Increase kMaxCallback.
+
+Fatal Error! Callback registration failed. Increase kMaxCallback.
+
+Obtained 44 stack frames.
+#0  0x007fff6b6fd33a in __pthread_kill
+#1  0x007fff6b684808 in abort
+#2  0x00000106aa794e in CrashDontLaunchBugReporter()
+#3  0x00000104726ff7 in EditorMonoConsole::LogToConsoleImplementation(CppLogEntry const&)
+#4  0x000001047263cc in EditorMonoConsole::LogToConsoleImplementation(DebugStringToFileData const&)
+#5  0x00000104727d8e in LogToConsoleImplementation(DebugStringToFileData const&)
+#6  0x000001064f21dd in DebugStringToFilePostprocessedStacktrace(DebugStringToFileData const&)
+#7  0x000001064f2ac3 in DebugStringToFile(DebugStringToFileData const&)
+#8  0x0000010213c8b4 in CallbackArrayBase<void (*)(AssemblyLoadFailure), void (*)(void const*, AssemblyLoadFailure)>::Register(void (*)(AssemblyLoadFailure), void (*)(void const*, AssemblyLoadFailure), void const*)
+#9  0x000001050bf5a8 in LoadDomainAndUserAssemblies(bool)
+#10 0x000001050c1f9e in LoadUserAssemblies()
+#11 0x000001055a73b9 in AssetImportWorkerClient::ReloadMonoDomain(AssetResolver&)
+#12 0x000001055d269e in core::mutable_function<void ()>::DispatchT<void IOService::PostHelper<AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_5>(AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_5&&, IOService::WrapCallableInFunctionTag)::'lambda'()>::Dispatch()
+#13 0x00000105646340 in asio::detail::completion_handler<core::mutable_function<void ()> >::do_complete(asio::detail::task_io_service*, asio::detail::task_io_service_operation*, std::__1::error_code const&, unsigned long)
+#14 0x00000105643605 in asio::detail::task_io_service::do_run_one(asio::detail::scoped_lock<asio::detail::posix_mutex>&, asio::detail::task_io_service_thread_info&, std::__1::error_code const&)
+#15 0x000001056430a1 in asio::detail::task_io_service::run(std::__1::error_code&)
+#16 0x0000010563d36a in IOService::Run(bool)
+#17 0x0000010559a79c in RunAssetImporterV2()
+#18 0x0000010489e203 in Application::InitializeProject()
+#19 0x00000106ab32bd in -[EditorApplication applicationDidFinishLaunching:]
+#20 0x007fff3163a9cf in __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+#21 0x007fff3163a963 in ___CFXRegistrationPost1_block_invoke
+#22 0x007fff3163a8d8 in _CFXRegistrationPost1
+#23 0x007fff3163a544 in ___CFXNotificationPost_block_invoke
+#24 0x007fff3160a6bd in -[_CFXNotificationRegistrar find:object:observer:enumerator:]
+#25 0x007fff31609b69 in _CFXNotificationPost
+#26 0x007fff33c80866 in -[NSNotificationCenter postNotificationName:object:userInfo:]
+#27 0x007fff2e8cb153 in -[NSApplication _postDidFinishNotification]
+#28 0x007fff2e8cae92 in -[NSApplication _sendFinishLaunchingNotification]
+#29 0x007fff2e8c7f53 in -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+#30 0x007fff2e8c7b98 in -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+#31 0x007fff33cabb06 in -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+#32 0x007fff33cab970 in _NSAppleEventManagerGenericHandler
+#33 0x007fff329b7203 in _AppleEventsCheckInAppWithBlock
+#34 0x007fff329b6929 in _AppleEventsCheckInAppWithBlock
+#35 0x007fff329aebd7 in aeProcessAppleEvent
+#36 0x007fff302887fa in AEProcessAppleEvent
+#37 0x007fff2e8c1f31 in _DPSNextEvent
+#38 0x007fff2e8c04e0 in -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#39 0x007fff2e8b21ee in -[NSApplication run]
+#40 0x007fff2e883ff6 in NSApplicationMain
+#41 0x00000106aee089 in EditorMain(int, char const**)
+#42 0x00000106aee2b9 in main
+#43 0x007fff6b5b5cc9 in start

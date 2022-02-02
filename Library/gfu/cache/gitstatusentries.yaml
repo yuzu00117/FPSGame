@@ -13,282 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-01-24T16:06:12.773+09:00
+  lastUpdatedAtString: 2022-02-02T18:25:27.461+09:00
   initializedAtString: 2022-01-12T12:07:38.390+09:00
   entries:
-  - path: Assets/Image/SeekPng.com_green-crosshair-png_1189065.png
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Image/SeekPng.com_green-crosshair-png_1189065.png
-    projectPath: Assets/Image/SeekPng.com_green-crosshair-png_1189065.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Image/SeekPng.com_green-crosshair-png_1189065.png.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Image/SeekPng.com_green-crosshair-png_1189065.png.meta
-    projectPath: Assets/Image/SeekPng.com_green-crosshair-png_1189065.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Image/TitleImage.png
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Image/TitleImage.png
-    projectPath: Assets/Image/TitleImage.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Image/TitleImage.png.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Image/TitleImage.png.meta
-    projectPath: Assets/Image/TitleImage.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Prefab/Sphere.prefab
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Prefab/Sphere.prefab
-    projectPath: Assets/Prefab/Sphere.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/Game.unity
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Scenes/Game.unity
-    projectPath: Assets/Scenes/Game.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Scenes/TitleScene/Title.unity
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Scenes/TitleScene/Title.unity
-    projectPath: Assets/Scenes/TitleScene/Title.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Script/BridgeManager.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/BridgeManager.cs
-    projectPath: Assets/Script/BridgeManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/BridgeManager.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/BridgeManager.cs.meta
-    projectPath: Assets/Script/BridgeManager.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/DeadArea.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/DeadArea.cs
-    projectPath: Assets/Script/DeadArea.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/DeadArea.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/DeadArea.cs.meta
-    projectPath: Assets/Script/DeadArea.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/LightBlinking.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/LightBlinking.cs
-    projectPath: Assets/Script/LightBlinking.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/LightBlinking.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/LightBlinking.cs.meta
-    projectPath: Assets/Script/LightBlinking.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets/Script/MenuManager.cs
     fullPath: /Users/yuzu00117/FPSgame/Assets/Script/MenuManager.cs
     projectPath: Assets/Script/MenuManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets/Script/MenuManager.cs.meta
     fullPath: /Users/yuzu00117/FPSgame/Assets/Script/MenuManager.cs.meta
     projectPath: Assets/Script/MenuManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/Stage2DoorOpen.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage2DoorOpen.cs
-    projectPath: Assets/Script/Stage2DoorOpen.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage2DoorOpen.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage2DoorOpen.cs.meta
-    projectPath: Assets/Script/Stage2DoorOpen.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage2TargetHit.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage2TargetHit.cs
-    projectPath: Assets/Script/Stage2TargetHit.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage2TargetHit.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage2TargetHit.cs.meta
-    projectPath: Assets/Script/Stage2TargetHit.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3Clear.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3Clear.cs
-    projectPath: Assets/Script/Stage3Clear.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3Clear.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3Clear.cs.meta
-    projectPath: Assets/Script/Stage3Clear.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3DoorOpen.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3DoorOpen.cs
-    projectPath: Assets/Script/Stage3DoorOpen.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3DoorOpen.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3DoorOpen.cs.meta
-    projectPath: Assets/Script/Stage3DoorOpen.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3Reset.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3Reset.cs
-    projectPath: Assets/Script/Stage3Reset.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/Stage3Reset.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/Stage3Reset.cs.meta
-    projectPath: Assets/Script/Stage3Reset.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/StageGimmick.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick.meta
-    projectPath: Assets/Script/StageGimmick.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/BridgeManager.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/BridgeManager.cs
-    projectPath: Assets/Script/StageGimmick/BridgeManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/BridgeManager.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/BridgeManager.cs.meta
-    projectPath: Assets/Script/StageGimmick/BridgeManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/DeadArea.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/DeadArea.cs
-    projectPath: Assets/Script/StageGimmick/DeadArea.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/DeadArea.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/DeadArea.cs.meta
-    projectPath: Assets/Script/StageGimmick/DeadArea.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/FallDestroyObj.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/FallDestroyObj.cs
-    projectPath: Assets/Script/StageGimmick/FallDestroyObj.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/FallDestroyObj.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/FallDestroyObj.cs.meta
-    projectPath: Assets/Script/StageGimmick/FallDestroyObj.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage2DoorOpen.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage2DoorOpen.cs
-    projectPath: Assets/Script/StageGimmick/Stage2DoorOpen.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage2DoorOpen.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage2DoorOpen.cs.meta
-    projectPath: Assets/Script/StageGimmick/Stage2DoorOpen.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage2TargetHit.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage2TargetHit.cs
-    projectPath: Assets/Script/StageGimmick/Stage2TargetHit.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage2TargetHit.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage2TargetHit.cs.meta
-    projectPath: Assets/Script/StageGimmick/Stage2TargetHit.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3Clear.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3Clear.cs
-    projectPath: Assets/Script/StageGimmick/Stage3Clear.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3Clear.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3Clear.cs.meta
-    projectPath: Assets/Script/StageGimmick/Stage3Clear.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3DoorOpen.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3DoorOpen.cs
-    projectPath: Assets/Script/StageGimmick/Stage3DoorOpen.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3DoorOpen.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3DoorOpen.cs.meta
-    projectPath: Assets/Script/StageGimmick/Stage3DoorOpen.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3Reset.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3Reset.cs
-    projectPath: Assets/Script/StageGimmick/Stage3Reset.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/Stage3Reset.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/Stage3Reset.cs.meta
-    projectPath: Assets/Script/StageGimmick/Stage3Reset.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/TargetHit.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/TargetHit.cs
-    projectPath: Assets/Script/StageGimmick/TargetHit.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/StageGimmick/TargetHit.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/StageGimmick/TargetHit.cs.meta
-    projectPath: Assets/Script/StageGimmick/TargetHit.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Script/TargetHit.cs
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/TargetHit.cs
-    projectPath: Assets/Script/TargetHit.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Script/TargetHit.cs.meta
-    fullPath: /Users/yuzu00117/FPSgame/Assets/Script/TargetHit.cs.meta
-    projectPath: Assets/Script/TargetHit.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -298,471 +34,105 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/01/01001dfea119b4f241b56857d704cf9b
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/01/01001dfea119b4f241b56857d704cf9b
-    projectPath: Library/Artifacts/01/01001dfea119b4f241b56857d704cf9b
+  - path: Library/Artifacts/1c/1ccb410e166547142f01feac96d78c83
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/1c/1ccb410e166547142f01feac96d78c83
+    projectPath: Library/Artifacts/1c/1ccb410e166547142f01feac96d78c83
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/03/035aebd2b8a988882373beb59ea435e5
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/03/035aebd2b8a988882373beb59ea435e5
-    projectPath: Library/Artifacts/03/035aebd2b8a988882373beb59ea435e5
+  - path: Library/Artifacts/2a/2ae8a439c2ba2f3045a9d19a039464b9
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/2a/2ae8a439c2ba2f3045a9d19a039464b9
+    projectPath: Library/Artifacts/2a/2ae8a439c2ba2f3045a9d19a039464b9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/08/086d3181aac97af7bce1907c6f60fe0e
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/08/086d3181aac97af7bce1907c6f60fe0e
-    projectPath: Library/Artifacts/08/086d3181aac97af7bce1907c6f60fe0e
+  - path: Library/Artifacts/32/324b11a41eaaa9f37f0c03f6c1e83d5c
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/32/324b11a41eaaa9f37f0c03f6c1e83d5c
+    projectPath: Library/Artifacts/32/324b11a41eaaa9f37f0c03f6c1e83d5c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/0e/0e0586e5eee9657b931228bb23810fcd
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/0e/0e0586e5eee9657b931228bb23810fcd
-    projectPath: Library/Artifacts/0e/0e0586e5eee9657b931228bb23810fcd
+  - path: Library/Artifacts/3c/3c9b580ed7f0021525eee3bf6a2c4c0b
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/3c/3c9b580ed7f0021525eee3bf6a2c4c0b
+    projectPath: Library/Artifacts/3c/3c9b580ed7f0021525eee3bf6a2c4c0b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/17/1782a55161bb45f521bc2a954d229f60
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/17/1782a55161bb45f521bc2a954d229f60
-    projectPath: Library/Artifacts/17/1782a55161bb45f521bc2a954d229f60
+  - path: Library/Artifacts/46/468a0e7a51b8f1a33628adfe922dc03e
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/46/468a0e7a51b8f1a33628adfe922dc03e
+    projectPath: Library/Artifacts/46/468a0e7a51b8f1a33628adfe922dc03e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/18/18b69bc58f25f54f338edc20c5f6eb50
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/18/18b69bc58f25f54f338edc20c5f6eb50
-    projectPath: Library/Artifacts/18/18b69bc58f25f54f338edc20c5f6eb50
+  - path: Library/Artifacts/47/4727ad150bfc2fe03f99f4b7b94874c6
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/47/4727ad150bfc2fe03f99f4b7b94874c6
+    projectPath: Library/Artifacts/47/4727ad150bfc2fe03f99f4b7b94874c6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1e/1e7af7b5a61663d26d35640c9ae8551f
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/1e/1e7af7b5a61663d26d35640c9ae8551f
-    projectPath: Library/Artifacts/1e/1e7af7b5a61663d26d35640c9ae8551f
+  - path: Library/Artifacts/49/491da712a7f34e0ade29bb3549dfd1e2
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/49/491da712a7f34e0ade29bb3549dfd1e2
+    projectPath: Library/Artifacts/49/491da712a7f34e0ade29bb3549dfd1e2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/20/206e4e01d0891175d86e3ae0fcc6f6ed
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/20/206e4e01d0891175d86e3ae0fcc6f6ed
-    projectPath: Library/Artifacts/20/206e4e01d0891175d86e3ae0fcc6f6ed
+  - path: Library/Artifacts/5e/5e3ba57989fbb09ccb06057b979ae9c0
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/5e/5e3ba57989fbb09ccb06057b979ae9c0
+    projectPath: Library/Artifacts/5e/5e3ba57989fbb09ccb06057b979ae9c0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/22/22b19f436bba7fdf8397ed93ace57359
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/22/22b19f436bba7fdf8397ed93ace57359
-    projectPath: Library/Artifacts/22/22b19f436bba7fdf8397ed93ace57359
+  - path: Library/Artifacts/5f/5f127a3c6e8f4df4845e15a50a467394
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/5f/5f127a3c6e8f4df4845e15a50a467394
+    projectPath: Library/Artifacts/5f/5f127a3c6e8f4df4845e15a50a467394
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/28/28593452911d21be56dd75b4c1aadc8a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/28/28593452911d21be56dd75b4c1aadc8a
-    projectPath: Library/Artifacts/28/28593452911d21be56dd75b4c1aadc8a
+  - path: Library/Artifacts/75/75e708d94a107f5b1416fa31f32127fe
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/75/75e708d94a107f5b1416fa31f32127fe
+    projectPath: Library/Artifacts/75/75e708d94a107f5b1416fa31f32127fe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/29/29de715f8483faf9d7debefaf331e6de
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/29/29de715f8483faf9d7debefaf331e6de
-    projectPath: Library/Artifacts/29/29de715f8483faf9d7debefaf331e6de
+  - path: Library/Artifacts/b2/b223f4d89f7cba8f179ab268da5fc18c
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/b2/b223f4d89f7cba8f179ab268da5fc18c
+    projectPath: Library/Artifacts/b2/b223f4d89f7cba8f179ab268da5fc18c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2c/2c690888949a8e5b4e43b3ce5c9473de
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/2c/2c690888949a8e5b4e43b3ce5c9473de
-    projectPath: Library/Artifacts/2c/2c690888949a8e5b4e43b3ce5c9473de
+  - path: Library/Artifacts/ba/ba9cf17fde1272cec5682f31fe222b15
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/ba/ba9cf17fde1272cec5682f31fe222b15
+    projectPath: Library/Artifacts/ba/ba9cf17fde1272cec5682f31fe222b15
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2d/2d79a77b6ad424a7545521c71156b0f3
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/2d/2d79a77b6ad424a7545521c71156b0f3
-    projectPath: Library/Artifacts/2d/2d79a77b6ad424a7545521c71156b0f3
+  - path: Library/Artifacts/bb/bb5001814c163e279b9fab2e71d9ea94
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/bb/bb5001814c163e279b9fab2e71d9ea94
+    projectPath: Library/Artifacts/bb/bb5001814c163e279b9fab2e71d9ea94
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2d/2db6e6d9b7ef7c059e4f62539eee0298
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/2d/2db6e6d9b7ef7c059e4f62539eee0298
-    projectPath: Library/Artifacts/2d/2db6e6d9b7ef7c059e4f62539eee0298
+  - path: Library/Artifacts/bb/bbb36428f8a26067c5205feeecd5ebc6
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/bb/bbb36428f8a26067c5205feeecd5ebc6
+    projectPath: Library/Artifacts/bb/bbb36428f8a26067c5205feeecd5ebc6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/30/30305c36e13e6b05674895dd19f3fe54
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/30/30305c36e13e6b05674895dd19f3fe54
-    projectPath: Library/Artifacts/30/30305c36e13e6b05674895dd19f3fe54
+  - path: Library/Artifacts/bc/bcddbc39292948684ea9de45d95a0f76
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/bc/bcddbc39292948684ea9de45d95a0f76
+    projectPath: Library/Artifacts/bc/bcddbc39292948684ea9de45d95a0f76
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/33/3301bb92a2fda0041583e6b4d41f677a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/33/3301bb92a2fda0041583e6b4d41f677a
-    projectPath: Library/Artifacts/33/3301bb92a2fda0041583e6b4d41f677a
+  - path: Library/Artifacts/c3/c3652168e842856fe2ad3e2eb8648a6c
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c3/c3652168e842856fe2ad3e2eb8648a6c
+    projectPath: Library/Artifacts/c3/c3652168e842856fe2ad3e2eb8648a6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/3f/3f82d75b151f405906db67d3c449602b
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/3f/3f82d75b151f405906db67d3c449602b
-    projectPath: Library/Artifacts/3f/3f82d75b151f405906db67d3c449602b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/40/40966c235f70a6117693876f078f44b3
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/40/40966c235f70a6117693876f078f44b3
-    projectPath: Library/Artifacts/40/40966c235f70a6117693876f078f44b3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/4132a1f4f1ba171a48425f77cbea0c64
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/41/4132a1f4f1ba171a48425f77cbea0c64
-    projectPath: Library/Artifacts/41/4132a1f4f1ba171a48425f77cbea0c64
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/44/44649bcb40d795fd5fe87b60bfbae7c1
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/44/44649bcb40d795fd5fe87b60bfbae7c1
-    projectPath: Library/Artifacts/44/44649bcb40d795fd5fe87b60bfbae7c1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4d/4d44c1c391f5068ebf2af7cbd5a6aa55
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/4d/4d44c1c391f5068ebf2af7cbd5a6aa55
-    projectPath: Library/Artifacts/4d/4d44c1c391f5068ebf2af7cbd5a6aa55
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4e/4e1b12f857e6228733fcb7140272f68f
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/4e/4e1b12f857e6228733fcb7140272f68f
-    projectPath: Library/Artifacts/4e/4e1b12f857e6228733fcb7140272f68f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/52/52be4e02473a700b3aaf27546d1b3662
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/52/52be4e02473a700b3aaf27546d1b3662
-    projectPath: Library/Artifacts/52/52be4e02473a700b3aaf27546d1b3662
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/53/53c61339ca3f3ff7f91434beee51f948
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/53/53c61339ca3f3ff7f91434beee51f948
-    projectPath: Library/Artifacts/53/53c61339ca3f3ff7f91434beee51f948
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/55/553db3bf5efb7ddc213827f109653cb9
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/55/553db3bf5efb7ddc213827f109653cb9
-    projectPath: Library/Artifacts/55/553db3bf5efb7ddc213827f109653cb9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/56/560cb3d739ed04318a8279a79c33c186
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/56/560cb3d739ed04318a8279a79c33c186
-    projectPath: Library/Artifacts/56/560cb3d739ed04318a8279a79c33c186
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5f/5ff8137aa4a1a9c307c8b91050d8b331
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/5f/5ff8137aa4a1a9c307c8b91050d8b331
-    projectPath: Library/Artifacts/5f/5ff8137aa4a1a9c307c8b91050d8b331
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/60/601c7f0de4c8e525de0c7dc93bba7b14
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/60/601c7f0de4c8e525de0c7dc93bba7b14
-    projectPath: Library/Artifacts/60/601c7f0de4c8e525de0c7dc93bba7b14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/62/627b83cdba925115d57b455ef31fcf8a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/62/627b83cdba925115d57b455ef31fcf8a
-    projectPath: Library/Artifacts/62/627b83cdba925115d57b455ef31fcf8a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/63/631abe3a2f86ba1301ae1a9e64afecbf
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/63/631abe3a2f86ba1301ae1a9e64afecbf
-    projectPath: Library/Artifacts/63/631abe3a2f86ba1301ae1a9e64afecbf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6f/6f7b58b0fa8c3706b1bc24445c093ea7
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/6f/6f7b58b0fa8c3706b1bc24445c093ea7
-    projectPath: Library/Artifacts/6f/6f7b58b0fa8c3706b1bc24445c093ea7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/77/77dbeaf6d206d042d473d6b7de771e75
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/77/77dbeaf6d206d042d473d6b7de771e75
-    projectPath: Library/Artifacts/77/77dbeaf6d206d042d473d6b7de771e75
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/77/77fdd0c04059f3988a53fa68d300f270
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/77/77fdd0c04059f3988a53fa68d300f270
-    projectPath: Library/Artifacts/77/77fdd0c04059f3988a53fa68d300f270
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7e/7e4b9e71ef7b3e639ba2e12a74878055
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/7e/7e4b9e71ef7b3e639ba2e12a74878055
-    projectPath: Library/Artifacts/7e/7e4b9e71ef7b3e639ba2e12a74878055
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/80/809cc3f72809413bbb9803a4b30dfa25
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/80/809cc3f72809413bbb9803a4b30dfa25
-    projectPath: Library/Artifacts/80/809cc3f72809413bbb9803a4b30dfa25
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/815354c119bb2c3caba83a85f042e941
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/81/815354c119bb2c3caba83a85f042e941
-    projectPath: Library/Artifacts/81/815354c119bb2c3caba83a85f042e941
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/85/85c18c225819fac2f3816ba13976164a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/85/85c18c225819fac2f3816ba13976164a
-    projectPath: Library/Artifacts/85/85c18c225819fac2f3816ba13976164a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/86/8638fc94ec08f770f6ee21a4baba64a4
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/86/8638fc94ec08f770f6ee21a4baba64a4
-    projectPath: Library/Artifacts/86/8638fc94ec08f770f6ee21a4baba64a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/87/8721ecf0a57880b68350c08a346593ae
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/87/8721ecf0a57880b68350c08a346593ae
-    projectPath: Library/Artifacts/87/8721ecf0a57880b68350c08a346593ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8a/8a20c65852af69b7c790cc7883af6e64
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/8a/8a20c65852af69b7c790cc7883af6e64
-    projectPath: Library/Artifacts/8a/8a20c65852af69b7c790cc7883af6e64
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8a/8af847adc94aab18acddb6d156ab6d1f
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/8a/8af847adc94aab18acddb6d156ab6d1f
-    projectPath: Library/Artifacts/8a/8af847adc94aab18acddb6d156ab6d1f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8b/8bef8f9ac3531e4699ad0ff45b11a011
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/8b/8bef8f9ac3531e4699ad0ff45b11a011
-    projectPath: Library/Artifacts/8b/8bef8f9ac3531e4699ad0ff45b11a011
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8d/8db30a221d67b10f4618a4ec17435de0
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/8d/8db30a221d67b10f4618a4ec17435de0
-    projectPath: Library/Artifacts/8d/8db30a221d67b10f4618a4ec17435de0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/8d/8dfcb5783a8019ef6fda02033c8089bd
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/8d/8dfcb5783a8019ef6fda02033c8089bd
-    projectPath: Library/Artifacts/8d/8dfcb5783a8019ef6fda02033c8089bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/90/9010ac6d1e4ed35afb9c189d2732feda
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/90/9010ac6d1e4ed35afb9c189d2732feda
-    projectPath: Library/Artifacts/90/9010ac6d1e4ed35afb9c189d2732feda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9b/9b70c73e30efb3b368fc69228c12bff2
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/9b/9b70c73e30efb3b368fc69228c12bff2
-    projectPath: Library/Artifacts/9b/9b70c73e30efb3b368fc69228c12bff2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a1/a1392ded1b4a0e5783021c4fa0c97e3a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/a1/a1392ded1b4a0e5783021c4fa0c97e3a
-    projectPath: Library/Artifacts/a1/a1392ded1b4a0e5783021c4fa0c97e3a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ab/ab270e6b6ea69b725538b73e1f04c646
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/ab/ab270e6b6ea69b725538b73e1f04c646
-    projectPath: Library/Artifacts/ab/ab270e6b6ea69b725538b73e1f04c646
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b1/b1afeac5a00b6f3c36a96eeb873e025e
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/b1/b1afeac5a00b6f3c36a96eeb873e025e
-    projectPath: Library/Artifacts/b1/b1afeac5a00b6f3c36a96eeb873e025e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b1/b1bf65c32ac89c1543bfdef457604fe4
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/b1/b1bf65c32ac89c1543bfdef457604fe4
-    projectPath: Library/Artifacts/b1/b1bf65c32ac89c1543bfdef457604fe4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b5/b595660da90f0016e827dbd063ea3fbd
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/b5/b595660da90f0016e827dbd063ea3fbd
-    projectPath: Library/Artifacts/b5/b595660da90f0016e827dbd063ea3fbd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/be/be2b0d001a7a3b9baf8febe7d55ea223
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/be/be2b0d001a7a3b9baf8febe7d55ea223
-    projectPath: Library/Artifacts/be/be2b0d001a7a3b9baf8febe7d55ea223
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c2/c2d45f5eb3a674bda3c62ff455b79e77
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c2/c2d45f5eb3a674bda3c62ff455b79e77
-    projectPath: Library/Artifacts/c2/c2d45f5eb3a674bda3c62ff455b79e77
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c3/c3da554d7c41b48ee6923c5c18fcc471
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c3/c3da554d7c41b48ee6923c5c18fcc471
-    projectPath: Library/Artifacts/c3/c3da554d7c41b48ee6923c5c18fcc471
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c6021446abb831cc4f3a6b86c6bdbcab
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c6/c6021446abb831cc4f3a6b86c6bdbcab
-    projectPath: Library/Artifacts/c6/c6021446abb831cc4f3a6b86c6bdbcab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c84f4aca923fb70f7dc6ce670d8d4696
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c8/c84f4aca923fb70f7dc6ce670d8d4696
-    projectPath: Library/Artifacts/c8/c84f4aca923fb70f7dc6ce670d8d4696
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c8b865fb98d89f2946e804186020d0d2
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/c8/c8b865fb98d89f2946e804186020d0d2
-    projectPath: Library/Artifacts/c8/c8b865fb98d89f2946e804186020d0d2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ca/caac8667c4409aa11e563a202cd11315
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/ca/caac8667c4409aa11e563a202cd11315
-    projectPath: Library/Artifacts/ca/caac8667c4409aa11e563a202cd11315
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/cc/cc8041a05d095bc9541b026b82e4001e
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/cc/cc8041a05d095bc9541b026b82e4001e
-    projectPath: Library/Artifacts/cc/cc8041a05d095bc9541b026b82e4001e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/cc/ccd4ca718257a56193326d7b642a5091
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/cc/ccd4ca718257a56193326d7b642a5091
-    projectPath: Library/Artifacts/cc/ccd4ca718257a56193326d7b642a5091
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/cd/cd008ff15ca3b574396c416f0a2ebb66
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/cd/cd008ff15ca3b574396c416f0a2ebb66
-    projectPath: Library/Artifacts/cd/cd008ff15ca3b574396c416f0a2ebb66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d2/d2078fc1901141ee768792f5850cfc23
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/d2/d2078fc1901141ee768792f5850cfc23
-    projectPath: Library/Artifacts/d2/d2078fc1901141ee768792f5850cfc23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d8/d8610b0b68490cd2a872ee99c0d023bb
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/d8/d8610b0b68490cd2a872ee99c0d023bb
-    projectPath: Library/Artifacts/d8/d8610b0b68490cd2a872ee99c0d023bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/dd/dd1b9f06eb4eb5c99b30891fdb4dc257
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/dd/dd1b9f06eb4eb5c99b30891fdb4dc257
-    projectPath: Library/Artifacts/dd/dd1b9f06eb4eb5c99b30891fdb4dc257
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/df/dff007cb1a1e2f08a5b9654cd8841f7f
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/df/dff007cb1a1e2f08a5b9654cd8841f7f
-    projectPath: Library/Artifacts/df/dff007cb1a1e2f08a5b9654cd8841f7f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e0/e00c1ed582d4016fbef2ada3276b3ff2
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/e0/e00c1ed582d4016fbef2ada3276b3ff2
-    projectPath: Library/Artifacts/e0/e00c1ed582d4016fbef2ada3276b3ff2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e0/e0ff15abb43dbbfca3548f4e973a2799
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/e0/e0ff15abb43dbbfca3548f4e973a2799
-    projectPath: Library/Artifacts/e0/e0ff15abb43dbbfca3548f4e973a2799
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/e6/e6151268aa467b32c06140574a47a0e9
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/e6/e6151268aa467b32c06140574a47a0e9
-    projectPath: Library/Artifacts/e6/e6151268aa467b32c06140574a47a0e9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ea/ea41283f30ca0a1716c1f241e44fa1fd
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/ea/ea41283f30ca0a1716c1f241e44fa1fd
-    projectPath: Library/Artifacts/ea/ea41283f30ca0a1716c1f241e44fa1fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
-    projectPath: Library/Artifacts/ee/eee45e4fe5218f5d344b3ff2cf82de55
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f0/f0064d6661b87b9bd145ac96a089642d
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/f0/f0064d6661b87b9bd145ac96a089642d
-    projectPath: Library/Artifacts/f0/f0064d6661b87b9bd145ac96a089642d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
-    projectPath: Library/Artifacts/f5/f5c7e9c7f7d2845bd2e5a46edefc0bb3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f7/f7c8e0e195ce57dfa7db482baee99aa3
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/f7/f7c8e0e195ce57dfa7db482baee99aa3
-    projectPath: Library/Artifacts/f7/f7c8e0e195ce57dfa7db482baee99aa3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f9/f93b775334712fbbfbf5617bc2dd074b
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/f9/f93b775334712fbbfbf5617bc2dd074b
-    projectPath: Library/Artifacts/f9/f93b775334712fbbfbf5617bc2dd074b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fb/fb6f7584cc5e1201e8b2d22d60214bd2
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/fb/fb6f7584cc5e1201e8b2d22d60214bd2
-    projectPath: Library/Artifacts/fb/fb6f7584cc5e1201e8b2d22d60214bd2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fd/fd45a0f209b4e7467fe1f250faa17d43
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/fd/fd45a0f209b4e7467fe1f250faa17d43
-    projectPath: Library/Artifacts/fd/fd45a0f209b4e7467fe1f250faa17d43
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fe/fe64578382cfa2f9f50cd328394f862a
-    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/fe/fe64578382cfa2f9f50cd328394f862a
-    projectPath: Library/Artifacts/fe/fe64578382cfa2f9f50cd328394f862a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/CurrentMaximizeLayout.dwlt
-    fullPath: /Users/yuzu00117/FPSgame/Library/CurrentMaximizeLayout.dwlt
-    projectPath: Library/CurrentMaximizeLayout.dwlt
+  - path: Library/Artifacts/fb/fb51a131ba4b50cc60edec80c1467e98
+    fullPath: /Users/yuzu00117/FPSgame/Library/Artifacts/fb/fb51a131ba4b50cc60edec80c1467e98
+    projectPath: Library/Artifacts/fb/fb51a131ba4b50cc60edec80c1467e98
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -814,366 +184,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ShaderCache/0/03614a9d26d50dee1f1d09cdef2b86d8.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/0/03614a9d26d50dee1f1d09cdef2b86d8.bin
-    projectPath: Library/ShaderCache/0/03614a9d26d50dee1f1d09cdef2b86d8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/0/073f0685bb7862b211004cf4ffa61d12.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/0/073f0685bb7862b211004cf4ffa61d12.bin
-    projectPath: Library/ShaderCache/0/073f0685bb7862b211004cf4ffa61d12.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/0/0a7934ca3e88260822ef415ad3a666bc.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/0/0a7934ca3e88260822ef415ad3a666bc.bin
-    projectPath: Library/ShaderCache/0/0a7934ca3e88260822ef415ad3a666bc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/0/0bc9c31773db56cc516bd2b2c3979213.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/0/0bc9c31773db56cc516bd2b2c3979213.bin
-    projectPath: Library/ShaderCache/0/0bc9c31773db56cc516bd2b2c3979213.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/1/19b44e7ee3c4714853c1caae8104692b.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/1/19b44e7ee3c4714853c1caae8104692b.bin
-    projectPath: Library/ShaderCache/1/19b44e7ee3c4714853c1caae8104692b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/1/1e2170d8c9b9430f34fb0400f545d7fb.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/1/1e2170d8c9b9430f34fb0400f545d7fb.bin
-    projectPath: Library/ShaderCache/1/1e2170d8c9b9430f34fb0400f545d7fb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/1/1fd5386047ca56d8e400cef687804d59.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/1/1fd5386047ca56d8e400cef687804d59.bin
-    projectPath: Library/ShaderCache/1/1fd5386047ca56d8e400cef687804d59.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/2/26c9d58ca0d2e3bf3fb852c8291a6c92.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/2/26c9d58ca0d2e3bf3fb852c8291a6c92.bin
-    projectPath: Library/ShaderCache/2/26c9d58ca0d2e3bf3fb852c8291a6c92.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/2/271bd024292a10395eda75cac028122d.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/2/271bd024292a10395eda75cac028122d.bin
-    projectPath: Library/ShaderCache/2/271bd024292a10395eda75cac028122d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/2/2dbbd40d033df0f12ad3104be402d942.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/2/2dbbd40d033df0f12ad3104be402d942.bin
-    projectPath: Library/ShaderCache/2/2dbbd40d033df0f12ad3104be402d942.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/2/2e0278e53fb697ea704706f71cb9bbf9.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/2/2e0278e53fb697ea704706f71cb9bbf9.bin
-    projectPath: Library/ShaderCache/2/2e0278e53fb697ea704706f71cb9bbf9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/3/3077cdb78c0a94a8b852b6dfb9ae55ea.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/3/3077cdb78c0a94a8b852b6dfb9ae55ea.bin
-    projectPath: Library/ShaderCache/3/3077cdb78c0a94a8b852b6dfb9ae55ea.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/3/36d6c2dcadb9a13819a93c2a32870b9a.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/3/36d6c2dcadb9a13819a93c2a32870b9a.bin
-    projectPath: Library/ShaderCache/3/36d6c2dcadb9a13819a93c2a32870b9a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/3/3a316d57de2811e1dea22a51d5303723.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/3/3a316d57de2811e1dea22a51d5303723.bin
-    projectPath: Library/ShaderCache/3/3a316d57de2811e1dea22a51d5303723.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/4/40b4f1b84de450f343ec0ddd06411fb4.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/4/40b4f1b84de450f343ec0ddd06411fb4.bin
-    projectPath: Library/ShaderCache/4/40b4f1b84de450f343ec0ddd06411fb4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/4/4e5c07f147effde1da06f9604596b6da.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/4/4e5c07f147effde1da06f9604596b6da.bin
-    projectPath: Library/ShaderCache/4/4e5c07f147effde1da06f9604596b6da.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/4/4eb41aac835bc8a283688391b4cd99cc.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/4/4eb41aac835bc8a283688391b4cd99cc.bin
-    projectPath: Library/ShaderCache/4/4eb41aac835bc8a283688391b4cd99cc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/509e56a026029cbed21bfb7f5919cd74.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/5/509e56a026029cbed21bfb7f5919cd74.bin
-    projectPath: Library/ShaderCache/5/509e56a026029cbed21bfb7f5919cd74.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/5162fb48b40cd3157e6338bb62db8e98.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/5/5162fb48b40cd3157e6338bb62db8e98.bin
-    projectPath: Library/ShaderCache/5/5162fb48b40cd3157e6338bb62db8e98.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/52161f5a6e38fbfe6c7ed4c85eb1d3aa.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/5/52161f5a6e38fbfe6c7ed4c85eb1d3aa.bin
-    projectPath: Library/ShaderCache/5/52161f5a6e38fbfe6c7ed4c85eb1d3aa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/541fcc7496eed8ee427e214578039805.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/5/541fcc7496eed8ee427e214578039805.bin
-    projectPath: Library/ShaderCache/5/541fcc7496eed8ee427e214578039805.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/5/544f3a505658f4f1b3b3dc2f59f6b45e.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/5/544f3a505658f4f1b3b3dc2f59f6b45e.bin
-    projectPath: Library/ShaderCache/5/544f3a505658f4f1b3b3dc2f59f6b45e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/601cda9b548ccafcc2a3fb723f2e2191.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/6/601cda9b548ccafcc2a3fb723f2e2191.bin
-    projectPath: Library/ShaderCache/6/601cda9b548ccafcc2a3fb723f2e2191.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/64ed6e961eda68ee057c00e33d99ecff.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/6/64ed6e961eda68ee057c00e33d99ecff.bin
-    projectPath: Library/ShaderCache/6/64ed6e961eda68ee057c00e33d99ecff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/6/66d8b4dab0a034e497fe11d630f1c581.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/6/66d8b4dab0a034e497fe11d630f1c581.bin
-    projectPath: Library/ShaderCache/6/66d8b4dab0a034e497fe11d630f1c581.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/7/7c74c2659311e3d29154bde628322cd7.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/7/7c74c2659311e3d29154bde628322cd7.bin
-    projectPath: Library/ShaderCache/7/7c74c2659311e3d29154bde628322cd7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/7/7f9e6687bf004b43527fd2ba9b7c25b1.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/7/7f9e6687bf004b43527fd2ba9b7c25b1.bin
-    projectPath: Library/ShaderCache/7/7f9e6687bf004b43527fd2ba9b7c25b1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/8/8dccefe91198b924ad11ac7f3ba84851.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/8/8dccefe91198b924ad11ac7f3ba84851.bin
-    projectPath: Library/ShaderCache/8/8dccefe91198b924ad11ac7f3ba84851.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/8/8e4f87f5004caf7755308901f1592687.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/8/8e4f87f5004caf7755308901f1592687.bin
-    projectPath: Library/ShaderCache/8/8e4f87f5004caf7755308901f1592687.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/8/8fe35766f4b2128627a894732afedf74.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/8/8fe35766f4b2128627a894732afedf74.bin
-    projectPath: Library/ShaderCache/8/8fe35766f4b2128627a894732afedf74.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/9106524445ec1dcd5599659e7b710417.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/9/9106524445ec1dcd5599659e7b710417.bin
-    projectPath: Library/ShaderCache/9/9106524445ec1dcd5599659e7b710417.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/9145bae6c722f81055f95fb78aca8667.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/9/9145bae6c722f81055f95fb78aca8667.bin
-    projectPath: Library/ShaderCache/9/9145bae6c722f81055f95fb78aca8667.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/916e2331148c9f4634341c460a523e08.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/9/916e2331148c9f4634341c460a523e08.bin
-    projectPath: Library/ShaderCache/9/916e2331148c9f4634341c460a523e08.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/95b281aae9c67bd74ec4dd4dca6b15c4.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/9/95b281aae9c67bd74ec4dd4dca6b15c4.bin
-    projectPath: Library/ShaderCache/9/95b281aae9c67bd74ec4dd4dca6b15c4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/9/9731a225427d81cee872d9e41989e7f0.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/9/9731a225427d81cee872d9e41989e7f0.bin
-    projectPath: Library/ShaderCache/9/9731a225427d81cee872d9e41989e7f0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/a216661cfbfa3360d7f412dac500ee9d.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/a/a216661cfbfa3360d7f412dac500ee9d.bin
-    projectPath: Library/ShaderCache/a/a216661cfbfa3360d7f412dac500ee9d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/a4e71716a278890cb468902960fe8429.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/a/a4e71716a278890cb468902960fe8429.bin
-    projectPath: Library/ShaderCache/a/a4e71716a278890cb468902960fe8429.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/a6d72f221932697306950fa60d9f365e.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/a/a6d72f221932697306950fa60d9f365e.bin
-    projectPath: Library/ShaderCache/a/a6d72f221932697306950fa60d9f365e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/a/a9f92bd567ebc773c39506c61b006065.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/a/a9f92bd567ebc773c39506c61b006065.bin
-    projectPath: Library/ShaderCache/a/a9f92bd567ebc773c39506c61b006065.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/b/bb680491846e3c03104bd1384b3651c6.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/b/bb680491846e3c03104bd1384b3651c6.bin
-    projectPath: Library/ShaderCache/b/bb680491846e3c03104bd1384b3651c6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/c4154483691550fb65c9638cf07b489f.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/c4154483691550fb65c9638cf07b489f.bin
-    projectPath: Library/ShaderCache/c/c4154483691550fb65c9638cf07b489f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/c4951f3492d3add82a770708fdedf297.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/c4951f3492d3add82a770708fdedf297.bin
-    projectPath: Library/ShaderCache/c/c4951f3492d3add82a770708fdedf297.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/c97d55777d79b3abfd00b549f411706d.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/c97d55777d79b3abfd00b549f411706d.bin
-    projectPath: Library/ShaderCache/c/c97d55777d79b3abfd00b549f411706d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/cadfd850e248690726fd505d53596c6b.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/cadfd850e248690726fd505d53596c6b.bin
-    projectPath: Library/ShaderCache/c/cadfd850e248690726fd505d53596c6b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/cafea977875d0032b12cc2c885b00065.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/cafea977875d0032b12cc2c885b00065.bin
-    projectPath: Library/ShaderCache/c/cafea977875d0032b12cc2c885b00065.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/c/cd5cc636e63768a8564641f5f06805fc.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/c/cd5cc636e63768a8564641f5f06805fc.bin
-    projectPath: Library/ShaderCache/c/cd5cc636e63768a8564641f5f06805fc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/d/d0fca4a871884c3929258c12da8956c7.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/d/d0fca4a871884c3929258c12da8956c7.bin
-    projectPath: Library/ShaderCache/d/d0fca4a871884c3929258c12da8956c7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/d/df63348706c8281fd4e6a702355a2f87.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/d/df63348706c8281fd4e6a702355a2f87.bin
-    projectPath: Library/ShaderCache/d/df63348706c8281fd4e6a702355a2f87.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/e/e3fdc2a8a0a1a53f2e525c7eec515852.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/e/e3fdc2a8a0a1a53f2e525c7eec515852.bin
-    projectPath: Library/ShaderCache/e/e3fdc2a8a0a1a53f2e525c7eec515852.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/e/e8e8fd84a14ea8ccf79eb20045ad489f.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/e/e8e8fd84a14ea8ccf79eb20045ad489f.bin
-    projectPath: Library/ShaderCache/e/e8e8fd84a14ea8ccf79eb20045ad489f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/e/eaf953c0095c797f04b0dd4aef7d09f2.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/e/eaf953c0095c797f04b0dd4aef7d09f2.bin
-    projectPath: Library/ShaderCache/e/eaf953c0095c797f04b0dd4aef7d09f2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/e/ec2d7baf5377ae483e1c3849bc72e487.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/e/ec2d7baf5377ae483e1c3849bc72e487.bin
-    projectPath: Library/ShaderCache/e/ec2d7baf5377ae483e1c3849bc72e487.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/e/ef3aec52d1ee0e9564f2e73d64e43291.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/e/ef3aec52d1ee0e9564f2e73d64e43291.bin
-    projectPath: Library/ShaderCache/e/ef3aec52d1ee0e9564f2e73d64e43291.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ShaderCache/f/f2eccad8a8280f4d38a159836cee3bb4.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/f2eccad8a8280f4d38a159836cee3bb4.bin
-    projectPath: Library/ShaderCache/f/f2eccad8a8280f4d38a159836cee3bb4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/f/f3bc38bb08c49255137568a05144a896.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/f3bc38bb08c49255137568a05144a896.bin
-    projectPath: Library/ShaderCache/f/f3bc38bb08c49255137568a05144a896.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/f/f6669560ce9e767708edf0fc246f563a.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/f6669560ce9e767708edf0fc246f563a.bin
-    projectPath: Library/ShaderCache/f/f6669560ce9e767708edf0fc246f563a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/f/fac1435e2fb75d0f21f6e4d55e950a33.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/fac1435e2fb75d0f21f6e4d55e950a33.bin
-    projectPath: Library/ShaderCache/f/fac1435e2fb75d0f21f6e4d55e950a33.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/f/fb5658686d873d9c7ea6a61783c6b27f.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/fb5658686d873d9c7ea6a61783c6b27f.bin
-    projectPath: Library/ShaderCache/f/fb5658686d873d9c7ea6a61783c6b27f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/ShaderCache/f/fd77a54cc134db26f32cf6b415960291.bin
-    fullPath: /Users/yuzu00117/FPSgame/Library/ShaderCache/f/fd77a54cc134db26f32cf6b415960291.bin
-    projectPath: Library/ShaderCache/f/fd77a54cc134db26f32cf6b415960291.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/SourceAssetDB
     fullPath: /Users/yuzu00117/FPSgame/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -1186,213 +196,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/MainStageHierarchy/56/5606bb45915565310815ae77bfbb8371.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/MainStageHierarchy/56/5606bb45915565310815ae77bfbb8371.json
-    projectPath: Library/StateCache/MainStageHierarchy/56/5606bb45915565310815ae77bfbb8371.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/0d/0d3492cb827fdc0bc533b3e7c70ddd17.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/0d/0d3492cb827fdc0bc533b3e7c70ddd17.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/0d/0d3492cb827fdc0bc533b3e7c70ddd17.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/18/18d786f605c61c600feb3ccf6bb3871c.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/18/18d786f605c61c600feb3ccf6bb3871c.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/18/18d786f605c61c600feb3ccf6bb3871c.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/1d/1d24c082947fda6fefbd4dd72cebe1a4.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/1d/1d24c082947fda6fefbd4dd72cebe1a4.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/1d/1d24c082947fda6fefbd4dd72cebe1a4.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/23/23cc5ba2cbb07c6d5a707e240954db42.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/23/23cc5ba2cbb07c6d5a707e240954db42.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/23/23cc5ba2cbb07c6d5a707e240954db42.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/31/31c7056cab78066fb47f7f3680da7331.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/31/31c7056cab78066fb47f7f3680da7331.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/31/31c7056cab78066fb47f7f3680da7331.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/34/34bed8bd088b734dd501dd71790990f8.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/34/34bed8bd088b734dd501dd71790990f8.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/34/34bed8bd088b734dd501dd71790990f8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/4d/4deba7f675089e9b28efba9e02eb33f6.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/4d/4deba7f675089e9b28efba9e02eb33f6.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/4d/4deba7f675089e9b28efba9e02eb33f6.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/53/53342e6cc21d219f7d680842ec677537.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/53/53342e6cc21d219f7d680842ec677537.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/53/53342e6cc21d219f7d680842ec677537.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/57/57392f319c5b117780f9645663336854.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/57/57392f319c5b117780f9645663336854.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/57/57392f319c5b117780f9645663336854.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/60/60ebe3507b8b2f96eb3de64255fe8be4.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/60/60ebe3507b8b2f96eb3de64255fe8be4.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/60/60ebe3507b8b2f96eb3de64255fe8be4.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/6b/6b0bc0f1edcee598cccd6d50959c2638.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/6b/6b0bc0f1edcee598cccd6d50959c2638.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/6b/6b0bc0f1edcee598cccd6d50959c2638.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/6c/6cf469ce4faa7928d406784c97d9ec19.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/6c/6cf469ce4faa7928d406784c97d9ec19.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/6c/6cf469ce4faa7928d406784c97d9ec19.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/79/79a0eeaf80a8dee510e12f076ad71ff2.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/79/79a0eeaf80a8dee510e12f076ad71ff2.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/79/79a0eeaf80a8dee510e12f076ad71ff2.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/7e/7e1797843c5a897fcf81c431c4e72b82.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/7e/7e1797843c5a897fcf81c431c4e72b82.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/7e/7e1797843c5a897fcf81c431c4e72b82.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/a4/a41840695abc79026eaa5381d138c842.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/a4/a41840695abc79026eaa5381d138c842.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/a4/a41840695abc79026eaa5381d138c842.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/b2/b2b018fe3000db85d9374a7e63c6b6be.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/b2/b2b018fe3000db85d9374a7e63c6b6be.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/b2/b2b018fe3000db85d9374a7e63c6b6be.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/bf/bfa6708a5a3f771bd35034e06fba7e0e.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/bf/bfa6708a5a3f771bd35034e06fba7e0e.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/bf/bfa6708a5a3f771bd35034e06fba7e0e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/c9/c97be8247f9bd27bff5d0e8afc02b8b5.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/c9/c97be8247f9bd27bff5d0e8afc02b8b5.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/c9/c97be8247f9bd27bff5d0e8afc02b8b5.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/e8/e8ed09a3cd8c480e0adf51bdd7a783d1.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/e8/e8ed09a3cd8c480e0adf51bdd7a783d1.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/e8/e8ed09a3cd8c480e0adf51bdd7a783d1.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/PrefabStageHierarchy/f9/f907e1c18e17683160f419ebaab2b67f.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/f9/f907e1c18e17683160f419ebaab2b67f.json
-    projectPath: Library/StateCache/PrefabStageHierarchy/f9/f907e1c18e17683160f419ebaab2b67f.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/0d/0d9bbd134e3ca418e7b20a29e8eede92.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/0d/0d9bbd134e3ca418e7b20a29e8eede92.json
-    projectPath: Library/StateCache/SceneView/0d/0d9bbd134e3ca418e7b20a29e8eede92.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/14/145595e3924e1336aeb9a85880eab3e2.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/14/145595e3924e1336aeb9a85880eab3e2.json
-    projectPath: Library/StateCache/SceneView/14/145595e3924e1336aeb9a85880eab3e2.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/1e/1e0e77ec465ae5ca48bcf563d46e4b50.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/1e/1e0e77ec465ae5ca48bcf563d46e4b50.json
-    projectPath: Library/StateCache/SceneView/1e/1e0e77ec465ae5ca48bcf563d46e4b50.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/26/261a3b7546df12e77774c1305ca6d3e8.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/26/261a3b7546df12e77774c1305ca6d3e8.json
-    projectPath: Library/StateCache/SceneView/26/261a3b7546df12e77774c1305ca6d3e8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/28/288b395ebacf2dde781059fcdcf673e2.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/28/288b395ebacf2dde781059fcdcf673e2.json
-    projectPath: Library/StateCache/SceneView/28/288b395ebacf2dde781059fcdcf673e2.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/36/367de30fb997335c864850ff3b9a719b.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/36/367de30fb997335c864850ff3b9a719b.json
-    projectPath: Library/StateCache/SceneView/36/367de30fb997335c864850ff3b9a719b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/3e/3ed8ffb7101b23b424efd2fa2122ce57.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/3e/3ed8ffb7101b23b424efd2fa2122ce57.json
-    projectPath: Library/StateCache/SceneView/3e/3ed8ffb7101b23b424efd2fa2122ce57.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/43/43098e6539fc2dd3eca4228ccb19b74a.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/43/43098e6539fc2dd3eca4228ccb19b74a.json
-    projectPath: Library/StateCache/SceneView/43/43098e6539fc2dd3eca4228ccb19b74a.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/58/589814dfc6a736b68d14a960e8acd7a3.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/58/589814dfc6a736b68d14a960e8acd7a3.json
-    projectPath: Library/StateCache/SceneView/58/589814dfc6a736b68d14a960e8acd7a3.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/5e/5eb46eaeed79cb38ed56599c09c6616b.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/5e/5eb46eaeed79cb38ed56599c09c6616b.json
-    projectPath: Library/StateCache/SceneView/5e/5eb46eaeed79cb38ed56599c09c6616b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/60/603ffb6b2ccc471131bb12220b1922eb.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/60/603ffb6b2ccc471131bb12220b1922eb.json
-    projectPath: Library/StateCache/SceneView/60/603ffb6b2ccc471131bb12220b1922eb.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/6a/6a12a7dbfba6c7ee4ffae846918a3bda.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/6a/6a12a7dbfba6c7ee4ffae846918a3bda.json
-    projectPath: Library/StateCache/SceneView/6a/6a12a7dbfba6c7ee4ffae846918a3bda.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/6f/6fe91bfd10b158f6c94d8b87710d66fc.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/6f/6fe91bfd10b158f6c94d8b87710d66fc.json
-    projectPath: Library/StateCache/SceneView/6f/6fe91bfd10b158f6c94d8b87710d66fc.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/84/84ddb9489b8c57215cccf6abc81b81e6.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/84/84ddb9489b8c57215cccf6abc81b81e6.json
-    projectPath: Library/StateCache/SceneView/84/84ddb9489b8c57215cccf6abc81b81e6.json
+  - path: Library/StateCache/PrefabStageHierarchy/d4/d466071663d70c30da07b1e376fe6045.json
+    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/PrefabStageHierarchy/d4/d466071663d70c30da07b1e376fe6045.json
+    projectPath: Library/StateCache/PrefabStageHierarchy/d4/d466071663d70c30da07b1e376fe6045.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1402,48 +208,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/StateCache/SceneView/bb/bba8fc5c4e7def0a487a41fb8566be48.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/bb/bba8fc5c4e7def0a487a41fb8566be48.json
-    projectPath: Library/StateCache/SceneView/bb/bba8fc5c4e7def0a487a41fb8566be48.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/cb/cb187a7abeb980b811746d95e1a33ada.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/cb/cb187a7abeb980b811746d95e1a33ada.json
-    projectPath: Library/StateCache/SceneView/cb/cb187a7abeb980b811746d95e1a33ada.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/d0/d010689f5f79c8568e6de2ee3a07c28c.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/d0/d010689f5f79c8568e6de2ee3a07c28c.json
-    projectPath: Library/StateCache/SceneView/d0/d010689f5f79c8568e6de2ee3a07c28c.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/d6/d6d3d626ccd14ac8167246ec9549036d.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/d6/d6d3d626ccd14ac8167246ec9549036d.json
-    projectPath: Library/StateCache/SceneView/d6/d6d3d626ccd14ac8167246ec9549036d.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/da/daa0b13246a9314c8eca074fb7376c99.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/da/daa0b13246a9314c8eca074fb7376c99.json
-    projectPath: Library/StateCache/SceneView/da/daa0b13246a9314c8eca074fb7376c99.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/e4/e4857ac76f51c834c353bfe657e82d25.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/e4/e4857ac76f51c834c353bfe657e82d25.json
-    projectPath: Library/StateCache/SceneView/e4/e4857ac76f51c834c353bfe657e82d25.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/StateCache/SceneView/ee/ee7c29f8e9da2e568a71de7edc618ab8.json
-    fullPath: /Users/yuzu00117/FPSgame/Library/StateCache/SceneView/ee/ee7c29f8e9da2e568a71de7edc618ab8.json
-    projectPath: Library/StateCache/SceneView/ee/ee7c29f8e9da2e568a71de7edc618ab8.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Logs/ApiUpdaterCheck.txt
     fullPath: /Users/yuzu00117/FPSgame/Logs/ApiUpdaterCheck.txt
     projectPath: Logs/ApiUpdaterCheck.txt
@@ -1456,27 +220,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/yuzu00117/FPSgame/Logs/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Logs/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/yuzu00117/FPSgame/Logs/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/yuzu00117/FPSgame/Logs/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Logs/shadercompiler-UnityShaderCompiler3.log
-    fullPath: /Users/yuzu00117/FPSgame/Logs/shadercompiler-UnityShaderCompiler3.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+  - path: Logs/AssetImportWorker2.log
+    fullPath: /Users/yuzu00117/FPSgame/Logs/AssetImportWorker2.log
+    projectPath: Logs/AssetImportWorker2.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1486,33 +232,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/ApiUpdater_CheckMovedFrom0e14f73061aa54892b03a7f9396185d2
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom0e14f73061aa54892b03a7f9396185d2
-    projectPath: Temp/ApiUpdater_CheckMovedFrom0e14f73061aa54892b03a7f9396185d2
+  - path: Temp/ApiUpdater_CheckMovedFrom0301e2acd66ee402a96ff92439a3e89d
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom0301e2acd66ee402a96ff92439a3e89d
+    projectPath: Temp/ApiUpdater_CheckMovedFrom0301e2acd66ee402a96ff92439a3e89d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ApiUpdater_CheckMovedFrom1bffd55b1529645a8b6431cc78a3fdbc
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom1bffd55b1529645a8b6431cc78a3fdbc
-    projectPath: Temp/ApiUpdater_CheckMovedFrom1bffd55b1529645a8b6431cc78a3fdbc
+  - path: Temp/ApiUpdater_CheckMovedFrom0dc8db59e85b04791892a89f8978fc86
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom0dc8db59e85b04791892a89f8978fc86
+    projectPath: Temp/ApiUpdater_CheckMovedFrom0dc8db59e85b04791892a89f8978fc86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ApiUpdater_CheckMovedFrom1e8d7941dbd2b414295ddf6610fd3b7c
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom1e8d7941dbd2b414295ddf6610fd3b7c
-    projectPath: Temp/ApiUpdater_CheckMovedFrom1e8d7941dbd2b414295ddf6610fd3b7c
+  - path: Temp/ApiUpdater_CheckMovedFrom1bdb9c104fba04597b394071da44b122
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom1bdb9c104fba04597b394071da44b122
+    projectPath: Temp/ApiUpdater_CheckMovedFrom1bdb9c104fba04597b394071da44b122
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ApiUpdater_CheckMovedFrom5714a7a88abb442aca067ed4291bb5fb
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom5714a7a88abb442aca067ed4291bb5fb
-    projectPath: Temp/ApiUpdater_CheckMovedFrom5714a7a88abb442aca067ed4291bb5fb
+  - path: Temp/ApiUpdater_CheckMovedFrom418b638504a3c4a459da8e0fe9bbb72f
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom418b638504a3c4a459da8e0fe9bbb72f
+    projectPath: Temp/ApiUpdater_CheckMovedFrom418b638504a3c4a459da8e0fe9bbb72f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/ApiUpdater_CheckMovedFrom8ded794c4cf1546419080c85edc08162
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom8ded794c4cf1546419080c85edc08162
-    projectPath: Temp/ApiUpdater_CheckMovedFrom8ded794c4cf1546419080c85edc08162
+  - path: Temp/ApiUpdater_CheckMovedFrom571813ed6558a4b3a9ecd10d83a6b832
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom571813ed6558a4b3a9ecd10d83a6b832
+    projectPath: Temp/ApiUpdater_CheckMovedFrom571813ed6558a4b3a9ecd10d83a6b832
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFrom78085f604fca240839e0b4035166b9e6
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom78085f604fca240839e0b4035166b9e6
+    projectPath: Temp/ApiUpdater_CheckMovedFrom78085f604fca240839e0b4035166b9e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFrom9a1e9f5c412294f57b596a43773fce36
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrom9a1e9f5c412294f57b596a43773fce36
+    projectPath: Temp/ApiUpdater_CheckMovedFrom9a1e9f5c412294f57b596a43773fce36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFroma784ece2b8dc247a3be5a1eb2b491252
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFroma784ece2b8dc247a3be5a1eb2b491252
+    projectPath: Temp/ApiUpdater_CheckMovedFroma784ece2b8dc247a3be5a1eb2b491252
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFromb10bb04a2500b4aedb8aebc138d938aa
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFromb10bb04a2500b4aedb8aebc138d938aa
+    projectPath: Temp/ApiUpdater_CheckMovedFromb10bb04a2500b4aedb8aebc138d938aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFromcb9bb55273afd47769201a6568e68b92
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFromcb9bb55273afd47769201a6568e68b92
+    projectPath: Temp/ApiUpdater_CheckMovedFromcb9bb55273afd47769201a6568e68b92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFromdcaaef3ac0e4b4f08881dd156a6a912b
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFromdcaaef3ac0e4b4f08881dd156a6a912b
+    projectPath: Temp/ApiUpdater_CheckMovedFromdcaaef3ac0e4b4f08881dd156a6a912b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFrome4b8f8cbf78d648d498bb9e1c6e6bd4d
+    fullPath: /Users/yuzu00117/FPSgame/Temp/ApiUpdater_CheckMovedFrome4b8f8cbf78d648d498bb9e1c6e6bd4d
+    projectPath: Temp/ApiUpdater_CheckMovedFrome4b8f8cbf78d648d498bb9e1c6e6bd4d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1528,501 +316,249 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/ProcessJobs/1eab319dba3fca4f6cc39d2d0c488eed.bakert
-    fullPath: /Users/yuzu00117/FPSgame/Temp/ProcessJobs/1eab319dba3fca4f6cc39d2d0c488eed.bakert
-    projectPath: Temp/ProcessJobs/1eab319dba3fca4f6cc39d2d0c488eed.bakert
+  - path: Temp/UnityTempFile-0a369db8375f3454597ddd4a322488d7
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-0a369db8375f3454597ddd4a322488d7
+    projectPath: Temp/UnityTempFile-0a369db8375f3454597ddd4a322488d7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-095aaaa4595934e938501c94b7fd7a3f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-095aaaa4595934e938501c94b7fd7a3f
-    projectPath: Temp/UnityTempFile-095aaaa4595934e938501c94b7fd7a3f
+  - path: Temp/UnityTempFile-0d2dd06c61c494ec58a4cb3d6f7d58fd
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-0d2dd06c61c494ec58a4cb3d6f7d58fd
+    projectPath: Temp/UnityTempFile-0d2dd06c61c494ec58a4cb3d6f7d58fd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0aeb7d9c98651421eb07d09e8227828e
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-0aeb7d9c98651421eb07d09e8227828e
-    projectPath: Temp/UnityTempFile-0aeb7d9c98651421eb07d09e8227828e
+  - path: Temp/UnityTempFile-0d5395dce26a14c26a36b347f046d91f
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-0d5395dce26a14c26a36b347f046d91f
+    projectPath: Temp/UnityTempFile-0d5395dce26a14c26a36b347f046d91f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-0bcceb50c673644a88f157d64cf4bad6
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-0bcceb50c673644a88f157d64cf4bad6
-    projectPath: Temp/UnityTempFile-0bcceb50c673644a88f157d64cf4bad6
+  - path: Temp/UnityTempFile-122ca86c5dd17461a855cfc28641877a
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-122ca86c5dd17461a855cfc28641877a
+    projectPath: Temp/UnityTempFile-122ca86c5dd17461a855cfc28641877a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-138143af4c34444819141ee863cec8d2
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-138143af4c34444819141ee863cec8d2
-    projectPath: Temp/UnityTempFile-138143af4c34444819141ee863cec8d2
+  - path: Temp/UnityTempFile-1df16bec7ed994d99b4f8e9683c78b7d
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-1df16bec7ed994d99b4f8e9683c78b7d
+    projectPath: Temp/UnityTempFile-1df16bec7ed994d99b4f8e9683c78b7d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1ba04150010ac4503ac09dd5e1774cf7
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-1ba04150010ac4503ac09dd5e1774cf7
-    projectPath: Temp/UnityTempFile-1ba04150010ac4503ac09dd5e1774cf7
+  - path: Temp/UnityTempFile-215b2b3fe70804cf2807e2108ba616bd
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-215b2b3fe70804cf2807e2108ba616bd
+    projectPath: Temp/UnityTempFile-215b2b3fe70804cf2807e2108ba616bd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1e1e5b161ad2f4eebae5948f3ac5101f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-1e1e5b161ad2f4eebae5948f3ac5101f
-    projectPath: Temp/UnityTempFile-1e1e5b161ad2f4eebae5948f3ac5101f
+  - path: Temp/UnityTempFile-250e49cda698941b38f8817e272e21be
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-250e49cda698941b38f8817e272e21be
+    projectPath: Temp/UnityTempFile-250e49cda698941b38f8817e272e21be
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1f4e9289d85c847eaad90c7f92ad041e
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-1f4e9289d85c847eaad90c7f92ad041e
-    projectPath: Temp/UnityTempFile-1f4e9289d85c847eaad90c7f92ad041e
+  - path: Temp/UnityTempFile-25ce79bc857904cb2a3af657e59a6c6d
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-25ce79bc857904cb2a3af657e59a6c6d
+    projectPath: Temp/UnityTempFile-25ce79bc857904cb2a3af657e59a6c6d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1f8f36a27bf4a4488855428d123c2d97
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-1f8f36a27bf4a4488855428d123c2d97
-    projectPath: Temp/UnityTempFile-1f8f36a27bf4a4488855428d123c2d97
+  - path: Temp/UnityTempFile-2bfb94aed2e90428daff303668a07fc3
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-2bfb94aed2e90428daff303668a07fc3
+    projectPath: Temp/UnityTempFile-2bfb94aed2e90428daff303668a07fc3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-23ac564fa47614ad3987c851c0dbf7a8
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-23ac564fa47614ad3987c851c0dbf7a8
-    projectPath: Temp/UnityTempFile-23ac564fa47614ad3987c851c0dbf7a8
+  - path: Temp/UnityTempFile-2df4e3ddbf0774654b4054170cd4d29e
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-2df4e3ddbf0774654b4054170cd4d29e
+    projectPath: Temp/UnityTempFile-2df4e3ddbf0774654b4054170cd4d29e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-23c4b3c6e31f743e487c745cb47929d2
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-23c4b3c6e31f743e487c745cb47929d2
-    projectPath: Temp/UnityTempFile-23c4b3c6e31f743e487c745cb47929d2
+  - path: Temp/UnityTempFile-303279c24c1ea4b8ca3703fa28c0c193
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-303279c24c1ea4b8ca3703fa28c0c193
+    projectPath: Temp/UnityTempFile-303279c24c1ea4b8ca3703fa28c0c193
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-252d7570c4ae14862bdc7c92283c3d9f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-252d7570c4ae14862bdc7c92283c3d9f
-    projectPath: Temp/UnityTempFile-252d7570c4ae14862bdc7c92283c3d9f
+  - path: Temp/UnityTempFile-3cce32bb15d9d4e97bada48a57f9b2b0
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-3cce32bb15d9d4e97bada48a57f9b2b0
+    projectPath: Temp/UnityTempFile-3cce32bb15d9d4e97bada48a57f9b2b0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-278aa464fbe3e496e9a2180961299bc7
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-278aa464fbe3e496e9a2180961299bc7
-    projectPath: Temp/UnityTempFile-278aa464fbe3e496e9a2180961299bc7
+  - path: Temp/UnityTempFile-4563aaf395f2d464cab29f482df245cc
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-4563aaf395f2d464cab29f482df245cc
+    projectPath: Temp/UnityTempFile-4563aaf395f2d464cab29f482df245cc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2817821ff40af4d92bf4750e83524fde
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-2817821ff40af4d92bf4750e83524fde
-    projectPath: Temp/UnityTempFile-2817821ff40af4d92bf4750e83524fde
+  - path: Temp/UnityTempFile-458d195231a71417fafac2b8f29e9407
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-458d195231a71417fafac2b8f29e9407
+    projectPath: Temp/UnityTempFile-458d195231a71417fafac2b8f29e9407
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2f5f67e16a3de49c2ba192d4a5741199
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-2f5f67e16a3de49c2ba192d4a5741199
-    projectPath: Temp/UnityTempFile-2f5f67e16a3de49c2ba192d4a5741199
+  - path: Temp/UnityTempFile-4ae8b7e4129804685a44a24285542367
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-4ae8b7e4129804685a44a24285542367
+    projectPath: Temp/UnityTempFile-4ae8b7e4129804685a44a24285542367
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2fc8749cb6e004e2dbf2952e9467bcfe
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-2fc8749cb6e004e2dbf2952e9467bcfe
-    projectPath: Temp/UnityTempFile-2fc8749cb6e004e2dbf2952e9467bcfe
+  - path: Temp/UnityTempFile-4af2d33404bd848fa9dc1c383460b5eb
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-4af2d33404bd848fa9dc1c383460b5eb
+    projectPath: Temp/UnityTempFile-4af2d33404bd848fa9dc1c383460b5eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-34964f5f178604cd1b1e490ab8e63357
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-34964f5f178604cd1b1e490ab8e63357
-    projectPath: Temp/UnityTempFile-34964f5f178604cd1b1e490ab8e63357
+  - path: Temp/UnityTempFile-4f48a61884a0b4e77a00477dacc4494c
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-4f48a61884a0b4e77a00477dacc4494c
+    projectPath: Temp/UnityTempFile-4f48a61884a0b4e77a00477dacc4494c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3d0c82f0dcbb24e4eb55ac6a9a4e6c36
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-3d0c82f0dcbb24e4eb55ac6a9a4e6c36
-    projectPath: Temp/UnityTempFile-3d0c82f0dcbb24e4eb55ac6a9a4e6c36
+  - path: Temp/UnityTempFile-5864763113645494990833318d9d2cc4
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-5864763113645494990833318d9d2cc4
+    projectPath: Temp/UnityTempFile-5864763113645494990833318d9d2cc4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-45481c0d638534cf084f872c0888d88f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-45481c0d638534cf084f872c0888d88f
-    projectPath: Temp/UnityTempFile-45481c0d638534cf084f872c0888d88f
+  - path: Temp/UnityTempFile-5bc4e861b46c84a43bafc62363ac32f8
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-5bc4e861b46c84a43bafc62363ac32f8
+    projectPath: Temp/UnityTempFile-5bc4e861b46c84a43bafc62363ac32f8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-489ec8c55e18047f2b7723a28617e942
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-489ec8c55e18047f2b7723a28617e942
-    projectPath: Temp/UnityTempFile-489ec8c55e18047f2b7723a28617e942
+  - path: Temp/UnityTempFile-6398827ade0b64b3b960d0990562ef82
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6398827ade0b64b3b960d0990562ef82
+    projectPath: Temp/UnityTempFile-6398827ade0b64b3b960d0990562ef82
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-4c4a7355c21c14eba967aabb44a049d3
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-4c4a7355c21c14eba967aabb44a049d3
-    projectPath: Temp/UnityTempFile-4c4a7355c21c14eba967aabb44a049d3
+  - path: Temp/UnityTempFile-6933e70d4e21645b98075038dbbe122b
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6933e70d4e21645b98075038dbbe122b
+    projectPath: Temp/UnityTempFile-6933e70d4e21645b98075038dbbe122b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-51f25673692544a0992c071cfdb7f833
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-51f25673692544a0992c071cfdb7f833
-    projectPath: Temp/UnityTempFile-51f25673692544a0992c071cfdb7f833
+  - path: Temp/UnityTempFile-697c3e503cfa84a898d60fff7a0460a2
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-697c3e503cfa84a898d60fff7a0460a2
+    projectPath: Temp/UnityTempFile-697c3e503cfa84a898d60fff7a0460a2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-57fdcb74a188d4a469a8d91c2ea3606f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-57fdcb74a188d4a469a8d91c2ea3606f
-    projectPath: Temp/UnityTempFile-57fdcb74a188d4a469a8d91c2ea3606f
+  - path: Temp/UnityTempFile-6dd9772ae785a4228b5b233e069afd34
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6dd9772ae785a4228b5b233e069afd34
+    projectPath: Temp/UnityTempFile-6dd9772ae785a4228b5b233e069afd34
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-5b40bc70bd23c46528738112010edae5
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-5b40bc70bd23c46528738112010edae5
-    projectPath: Temp/UnityTempFile-5b40bc70bd23c46528738112010edae5
+  - path: Temp/UnityTempFile-6ee6350a116b940f6827dd1d0f174b05
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6ee6350a116b940f6827dd1d0f174b05
+    projectPath: Temp/UnityTempFile-6ee6350a116b940f6827dd1d0f174b05
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-63e5c2d04d2ab4130808a81b56b7b105
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-63e5c2d04d2ab4130808a81b56b7b105
-    projectPath: Temp/UnityTempFile-63e5c2d04d2ab4130808a81b56b7b105
+  - path: Temp/UnityTempFile-7385955a182a04286a7f184831f02a41
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-7385955a182a04286a7f184831f02a41
+    projectPath: Temp/UnityTempFile-7385955a182a04286a7f184831f02a41
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-65a2065be240045719c44f4bc7d0be3c
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-65a2065be240045719c44f4bc7d0be3c
-    projectPath: Temp/UnityTempFile-65a2065be240045719c44f4bc7d0be3c
+  - path: Temp/UnityTempFile-755b10b5c48244113adcbd3c8108894f
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-755b10b5c48244113adcbd3c8108894f
+    projectPath: Temp/UnityTempFile-755b10b5c48244113adcbd3c8108894f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-65cecb0090925486ca06bab8f55f72bb
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-65cecb0090925486ca06bab8f55f72bb
-    projectPath: Temp/UnityTempFile-65cecb0090925486ca06bab8f55f72bb
+  - path: Temp/UnityTempFile-7731f1d1770ff458f97068483376c3f4
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-7731f1d1770ff458f97068483376c3f4
+    projectPath: Temp/UnityTempFile-7731f1d1770ff458f97068483376c3f4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-66b19ac92b2e9495fb55311145cd7fd6
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-66b19ac92b2e9495fb55311145cd7fd6
-    projectPath: Temp/UnityTempFile-66b19ac92b2e9495fb55311145cd7fd6
+  - path: Temp/UnityTempFile-91652c06b528347ecab57c403cfa8bd3
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-91652c06b528347ecab57c403cfa8bd3
+    projectPath: Temp/UnityTempFile-91652c06b528347ecab57c403cfa8bd3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6a061942dc89d4fa6be485c0f780fa76
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6a061942dc89d4fa6be485c0f780fa76
-    projectPath: Temp/UnityTempFile-6a061942dc89d4fa6be485c0f780fa76
+  - path: Temp/UnityTempFile-ae58153a5a7e54000a61f8de39d4cc3b
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-ae58153a5a7e54000a61f8de39d4cc3b
+    projectPath: Temp/UnityTempFile-ae58153a5a7e54000a61f8de39d4cc3b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6a7ba0eaca4b045fda84e41e65fec673
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6a7ba0eaca4b045fda84e41e65fec673
-    projectPath: Temp/UnityTempFile-6a7ba0eaca4b045fda84e41e65fec673
+  - path: Temp/UnityTempFile-af88e68ee01f449829513790a587aadd
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-af88e68ee01f449829513790a587aadd
+    projectPath: Temp/UnityTempFile-af88e68ee01f449829513790a587aadd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6e091c5a26bd14f568e45a07334c0d55
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-6e091c5a26bd14f568e45a07334c0d55
-    projectPath: Temp/UnityTempFile-6e091c5a26bd14f568e45a07334c0d55
+  - path: Temp/UnityTempFile-af8d5a2a35b6b4de5a1f395c04e56d81
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-af8d5a2a35b6b4de5a1f395c04e56d81
+    projectPath: Temp/UnityTempFile-af8d5a2a35b6b4de5a1f395c04e56d81
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7afd2343cee554bada2d0f532227e881
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-7afd2343cee554bada2d0f532227e881
-    projectPath: Temp/UnityTempFile-7afd2343cee554bada2d0f532227e881
+  - path: Temp/UnityTempFile-b628a0812a62f4ec3aaaeb45f54b893a
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b628a0812a62f4ec3aaaeb45f54b893a
+    projectPath: Temp/UnityTempFile-b628a0812a62f4ec3aaaeb45f54b893a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-7f708a471a1314fc885b73539846d33b
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-7f708a471a1314fc885b73539846d33b
-    projectPath: Temp/UnityTempFile-7f708a471a1314fc885b73539846d33b
+  - path: Temp/UnityTempFile-cc34e87fe319f4e8b87a7e3d2ae596cf
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cc34e87fe319f4e8b87a7e3d2ae596cf
+    projectPath: Temp/UnityTempFile-cc34e87fe319f4e8b87a7e3d2ae596cf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-80bd84295274049b6b37fbf90196c56f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-80bd84295274049b6b37fbf90196c56f
-    projectPath: Temp/UnityTempFile-80bd84295274049b6b37fbf90196c56f
+  - path: Temp/UnityTempFile-cdcb1287d5add4e4c808418eeefa09f8
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cdcb1287d5add4e4c808418eeefa09f8
+    projectPath: Temp/UnityTempFile-cdcb1287d5add4e4c808418eeefa09f8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-84d0029e82b474aa691e71fd06743477
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-84d0029e82b474aa691e71fd06743477
-    projectPath: Temp/UnityTempFile-84d0029e82b474aa691e71fd06743477
+  - path: Temp/UnityTempFile-d1b501390faaf4172bf225cb6b842099
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-d1b501390faaf4172bf225cb6b842099
+    projectPath: Temp/UnityTempFile-d1b501390faaf4172bf225cb6b842099
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-84fa1f22ddac64673875832ce4c38b2a
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-84fa1f22ddac64673875832ce4c38b2a
-    projectPath: Temp/UnityTempFile-84fa1f22ddac64673875832ce4c38b2a
+  - path: Temp/UnityTempFile-db81b3298876a450da563781874c3798
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-db81b3298876a450da563781874c3798
+    projectPath: Temp/UnityTempFile-db81b3298876a450da563781874c3798
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8d3669b37c90446b1836e5fb80866a01
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-8d3669b37c90446b1836e5fb80866a01
-    projectPath: Temp/UnityTempFile-8d3669b37c90446b1836e5fb80866a01
+  - path: Temp/UnityTempFile-dbe18a67f7342417488b74134363f87b
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-dbe18a67f7342417488b74134363f87b
+    projectPath: Temp/UnityTempFile-dbe18a67f7342417488b74134363f87b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-91b1f33d278134ed8af2cac685246d4d
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-91b1f33d278134ed8af2cac685246d4d
-    projectPath: Temp/UnityTempFile-91b1f33d278134ed8af2cac685246d4d
+  - path: Temp/UnityTempFile-ee14c25ca5af74c759816220cb03648c
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-ee14c25ca5af74c759816220cb03648c
+    projectPath: Temp/UnityTempFile-ee14c25ca5af74c759816220cb03648c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-923921dfe61314227864c9768a092cb4
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-923921dfe61314227864c9768a092cb4
-    projectPath: Temp/UnityTempFile-923921dfe61314227864c9768a092cb4
+  - path: Temp/UnityTempFile-f8ed1dc3c33eb4260bb678329558af0e
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f8ed1dc3c33eb4260bb678329558af0e
+    projectPath: Temp/UnityTempFile-f8ed1dc3c33eb4260bb678329558af0e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-94652280a029d491fb5d30e678fa39f4
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-94652280a029d491fb5d30e678fa39f4
-    projectPath: Temp/UnityTempFile-94652280a029d491fb5d30e678fa39f4
+  - path: Temp/UnityTempFile-fb45e14776134435598ad0de8802f079
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-fb45e14776134435598ad0de8802f079
+    projectPath: Temp/UnityTempFile-fb45e14776134435598ad0de8802f079
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-9b6548a8d57284b809ee5b65d1796906
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-9b6548a8d57284b809ee5b65d1796906
-    projectPath: Temp/UnityTempFile-9b6548a8d57284b809ee5b65d1796906
+  - path: Temp/UnityTempFile-fcf0a68f196384cbeba13401c9532be5
+    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-fcf0a68f196384cbeba13401c9532be5
+    projectPath: Temp/UnityTempFile-fcf0a68f196384cbeba13401c9532be5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-9bc3ad9d9ea064cb683838cac527da69
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-9bc3ad9d9ea064cb683838cac527da69
-    projectPath: Temp/UnityTempFile-9bc3ad9d9ea064cb683838cac527da69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-9f47f8b3d734c4902bc06f135486f788
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-9f47f8b3d734c4902bc06f135486f788
-    projectPath: Temp/UnityTempFile-9f47f8b3d734c4902bc06f135486f788
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-9f824a9ec3db444f5a73acc2a3ec29ff
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-9f824a9ec3db444f5a73acc2a3ec29ff
-    projectPath: Temp/UnityTempFile-9f824a9ec3db444f5a73acc2a3ec29ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a0287533184444e3893c2abb1e84359f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a0287533184444e3893c2abb1e84359f
-    projectPath: Temp/UnityTempFile-a0287533184444e3893c2abb1e84359f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a1313a93d9ee84d8a8ac4c1d8141d564
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a1313a93d9ee84d8a8ac4c1d8141d564
-    projectPath: Temp/UnityTempFile-a1313a93d9ee84d8a8ac4c1d8141d564
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a38309be303574c8bb636a373ca72dd6
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a38309be303574c8bb636a373ca72dd6
-    projectPath: Temp/UnityTempFile-a38309be303574c8bb636a373ca72dd6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a47536fb14ed243b1a2d6583bb29f547
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a47536fb14ed243b1a2d6583bb29f547
-    projectPath: Temp/UnityTempFile-a47536fb14ed243b1a2d6583bb29f547
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a50ffea1d34da4b7f8dcf5fba69ca02b
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a50ffea1d34da4b7f8dcf5fba69ca02b
-    projectPath: Temp/UnityTempFile-a50ffea1d34da4b7f8dcf5fba69ca02b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a5f2a0c373fbc4522aef3c91d24f3e17
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a5f2a0c373fbc4522aef3c91d24f3e17
-    projectPath: Temp/UnityTempFile-a5f2a0c373fbc4522aef3c91d24f3e17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a771f7811edff406bac05254eb82428c
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a771f7811edff406bac05254eb82428c
-    projectPath: Temp/UnityTempFile-a771f7811edff406bac05254eb82428c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-a8504d0384aa54d8fa30e2a27f5eb579
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-a8504d0384aa54d8fa30e2a27f5eb579
-    projectPath: Temp/UnityTempFile-a8504d0384aa54d8fa30e2a27f5eb579
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-aa12582781a8f42e7a1fd228965405e1
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-aa12582781a8f42e7a1fd228965405e1
-    projectPath: Temp/UnityTempFile-aa12582781a8f42e7a1fd228965405e1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-ac83012d1ef42444badea505e0489b25
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-ac83012d1ef42444badea505e0489b25
-    projectPath: Temp/UnityTempFile-ac83012d1ef42444badea505e0489b25
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-ad08aa2ae7ffd4d1c8af87e0eb86ae97
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-ad08aa2ae7ffd4d1c8af87e0eb86ae97
-    projectPath: Temp/UnityTempFile-ad08aa2ae7ffd4d1c8af87e0eb86ae97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-aebbe5ee16b43459ca51e48236f7c667
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-aebbe5ee16b43459ca51e48236f7c667
-    projectPath: Temp/UnityTempFile-aebbe5ee16b43459ca51e48236f7c667
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b02e67a3dee36454f8638fc87d54c8cd
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b02e67a3dee36454f8638fc87d54c8cd
-    projectPath: Temp/UnityTempFile-b02e67a3dee36454f8638fc87d54c8cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b28cddd59decd4c849498f00b5813396
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b28cddd59decd4c849498f00b5813396
-    projectPath: Temp/UnityTempFile-b28cddd59decd4c849498f00b5813396
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b36d88bfe5f004782992790d735843dc
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b36d88bfe5f004782992790d735843dc
-    projectPath: Temp/UnityTempFile-b36d88bfe5f004782992790d735843dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b41a3a76886a94ef59f44f3f37aa51b7
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b41a3a76886a94ef59f44f3f37aa51b7
-    projectPath: Temp/UnityTempFile-b41a3a76886a94ef59f44f3f37aa51b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b54b235e0eeaf4b4bb77795a16357fdd
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b54b235e0eeaf4b4bb77795a16357fdd
-    projectPath: Temp/UnityTempFile-b54b235e0eeaf4b4bb77795a16357fdd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b7829aede5f0d4af9a70c6c020f5fced
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-b7829aede5f0d4af9a70c6c020f5fced
-    projectPath: Temp/UnityTempFile-b7829aede5f0d4af9a70c6c020f5fced
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-bae89e06d0034420c89bcfd07e5c8048
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-bae89e06d0034420c89bcfd07e5c8048
-    projectPath: Temp/UnityTempFile-bae89e06d0034420c89bcfd07e5c8048
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-be615abe76d34464285a9971fb89d4c6
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-be615abe76d34464285a9971fb89d4c6
-    projectPath: Temp/UnityTempFile-be615abe76d34464285a9971fb89d4c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-c166c25f9413f414289ecb2944bd094a
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-c166c25f9413f414289ecb2944bd094a
-    projectPath: Temp/UnityTempFile-c166c25f9413f414289ecb2944bd094a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-c2a07dbef25364582878be9bf5836c6b
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-c2a07dbef25364582878be9bf5836c6b
-    projectPath: Temp/UnityTempFile-c2a07dbef25364582878be9bf5836c6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-c8dc89da52f8541ee85df86a2e655db1
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-c8dc89da52f8541ee85df86a2e655db1
-    projectPath: Temp/UnityTempFile-c8dc89da52f8541ee85df86a2e655db1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-ca48dc80b7f1f4cbb94e5361f3224283
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-ca48dc80b7f1f4cbb94e5361f3224283
-    projectPath: Temp/UnityTempFile-ca48dc80b7f1f4cbb94e5361f3224283
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cda3ecda107d043059c9e26aa6280e26
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cda3ecda107d043059c9e26aa6280e26
-    projectPath: Temp/UnityTempFile-cda3ecda107d043059c9e26aa6280e26
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cdd3e395295a84903a0bba2b7249478b
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cdd3e395295a84903a0bba2b7249478b
-    projectPath: Temp/UnityTempFile-cdd3e395295a84903a0bba2b7249478b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cdfca7316e8874d33a6706e4d1d3eab5
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cdfca7316e8874d33a6706e4d1d3eab5
-    projectPath: Temp/UnityTempFile-cdfca7316e8874d33a6706e4d1d3eab5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cf8f4307f7de147e2813e18914722130
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-cf8f4307f7de147e2813e18914722130
-    projectPath: Temp/UnityTempFile-cf8f4307f7de147e2813e18914722130
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-d2033e0191bdb4a6a907a3f4a039ab09
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-d2033e0191bdb4a6a907a3f4a039ab09
-    projectPath: Temp/UnityTempFile-d2033e0191bdb4a6a907a3f4a039ab09
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-d9cb46f39289f4b92aea9a60c90d1476
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-d9cb46f39289f4b92aea9a60c90d1476
-    projectPath: Temp/UnityTempFile-d9cb46f39289f4b92aea9a60c90d1476
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-dcb0b0e8d430546d8932d0a0db8abfe4
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-dcb0b0e8d430546d8932d0a0db8abfe4
-    projectPath: Temp/UnityTempFile-dcb0b0e8d430546d8932d0a0db8abfe4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f1addba8e75d74faaab5f26ad65abde3
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f1addba8e75d74faaab5f26ad65abde3
-    projectPath: Temp/UnityTempFile-f1addba8e75d74faaab5f26ad65abde3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f45deafae25e94320ba5e6536ba02513
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f45deafae25e94320ba5e6536ba02513
-    projectPath: Temp/UnityTempFile-f45deafae25e94320ba5e6536ba02513
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f59bdff22292d4cacb111b6663de7ea3
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f59bdff22292d4cacb111b6663de7ea3
-    projectPath: Temp/UnityTempFile-f59bdff22292d4cacb111b6663de7ea3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f7c02ed9c42184fd9b2144476927cbb2
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f7c02ed9c42184fd9b2144476927cbb2
-    projectPath: Temp/UnityTempFile-f7c02ed9c42184fd9b2144476927cbb2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f86c90daaef4a4e0eb4da849b0d8f27f
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-f86c90daaef4a4e0eb4da849b0d8f27f
-    projectPath: Temp/UnityTempFile-f86c90daaef4a4e0eb4da849b0d8f27f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-fa7912e8f9d8547608f5bf844168003b
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-fa7912e8f9d8547608f5bf844168003b
-    projectPath: Temp/UnityTempFile-fa7912e8f9d8547608f5bf844168003b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-fdd85ea99d9794dfaadedf1489449540
-    fullPath: /Users/yuzu00117/FPSgame/Temp/UnityTempFile-fdd85ea99d9794dfaadedf1489449540
-    projectPath: Temp/UnityTempFile-fdd85ea99d9794dfaadedf1489449540
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: UserSettings/EditorUserSettings.asset
-    fullPath: /Users/yuzu00117/FPSgame/UserSettings/EditorUserSettings.asset
-    projectPath: UserSettings/EditorUserSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
